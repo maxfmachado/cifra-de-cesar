@@ -1,4 +1,3 @@
-import requests
 
 alfabeto = 'abcdefghijklmnopqrstuvwxyz'
 mensagem = str(input('Mensagem: ')).lower()
